@@ -1,0 +1,9 @@
+{
+    "bomb_num": 5,
+    "enable_sounds": true,
+    "enable_walls": true,
+    "food_num": 5,
+    "grid_size": 15,
+    "highScore": 36,
+    "time_interval": 0.15
+}
